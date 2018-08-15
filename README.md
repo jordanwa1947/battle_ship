@@ -1,1 +1,1 @@
-This is my first rendition of battle I'll soonupdate to be in separate files that compartmentalize fuctionality and improver readability as well as include fire sequences for the computer and player.
+This is my first rendition of battleship. I'll soon update it to be in separate files that compartmentalize fuctionality and improve readability as well as include fire sequences for the computer and player.
