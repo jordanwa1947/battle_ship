@@ -25,11 +25,12 @@ attr_accessor :a, :b, :c, :d
   end
 
   def print_board
-    puts one
-    puts two
-    puts a
-    puts b
-    puts c
-    puts d
-    puts three
+    puts @one
+    puts @two
+    puts @a
+    puts @b
+    puts @c
+    puts @d
+    puts @three
   end
+end
